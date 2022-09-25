@@ -1,0 +1,39 @@
+body {
+    background-color: #D5E1EF;
+}
+
+.card{
+    width: 300px;
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 200px;
+    box-shadow: 0px 4px 10px #B5C2D1;
+}
+
+.image{
+    padding: 10px;
+}
+
+img {
+    border-radius: 5px;
+}
+
+.container{
+    font-family: Outfit, serif;
+    padding: 10px;
+}
+
+.container h1{
+    font-size: 22px;
+    color: #25354C;
+    margin-top: 0px;
+}
+
+.container p{
+    font-size: 15px;
+    color: #74757A;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
